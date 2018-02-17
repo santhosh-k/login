@@ -1,0 +1,10 @@
+{
+    "name":"LoginToFaceBook",
+    "version":"0.1",
+    "description":"This extension automatically login to facebook",
+    "manifest_version":2,
+    "browser_action":{
+        "default_popup":"loginDetails.html",
+        "default_icon":"loginExt.png"
+    }
+}
